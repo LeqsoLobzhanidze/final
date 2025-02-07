@@ -39,7 +39,7 @@ function App() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.5 }}
       >
-        <h1 className="logo">LexiVision</h1>
+        <h1 className="logo">lexo's project</h1>
         <div className="controls">
           <motion.div whileHover={{ scale: 1.05 }} className="theme-toggle">
             <label className="switch">
